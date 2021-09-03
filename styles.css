@@ -42,7 +42,7 @@ body{
   }
   
   .list-no-bullet li a {
-    margin: 1rem 0.5rem 0.5rem 0rem;
+    margin: 1rem 0rem 0rem 0rem;
   }
   
   
@@ -102,7 +102,7 @@ body{
 
 /* container */
 .container {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
   }
   
   .container-center {
