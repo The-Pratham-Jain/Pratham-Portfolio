@@ -1,2 +1,2 @@
-# Pratham-Portfolio
-This is my first portfolio website!
+# Pratham-Portfolio-Website
+This is my first portfolio website made using HTML and CSS.
